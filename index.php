@@ -7,7 +7,7 @@ use Discord\WebSockets\Event;
 include __DIR__.'/vendor/autoload.php';
 
 $discord = new Discord([
-    'token' => 'OTY4NTgyNzI0MDgyMzY4NjAz.Ymg89A.pLiOEkNTwwwj93A20waF2Vl5Vj4'
+    'token' => 'SEU_TOKEN_BOT'
 ]);
 
 
